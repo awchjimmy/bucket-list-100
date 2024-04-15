@@ -41,10 +41,14 @@
 |----|----|----|----|
 |第一銀行 美金定存|1000 USD|2024-03-13|3.85%|
 |第一銀行 黃金 DCA|5000 NTD|2024-04-08|-|
-|Bybit Flexible Savings|305 USDC|2024-04-02|10%|
-|Bybit Fund Pool|1006 USDT|2024-04-03|7.5%|
 
-
+#### Bybit Earn
+|項目名稱|本金|日期|年化|
+|----|----|----|----|
+|Bybit Flexible Savings|305 USDC|2024-04-02|8%|
+|Bybit Flexible Savings|500 USDT|2024-04-15|8%|
+|Bybit Fund Pool|306 USDT|2024-04-03|7.5%|
+|Bybit Fund Pool|1000 USDT|2024-04-13|7.5%|
 
 
 ## 高風險項目
