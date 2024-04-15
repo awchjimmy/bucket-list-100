@@ -49,7 +49,7 @@
 |Bybit Flexible Savings|500 USDT|2024-04-15|8%|
 |Bybit Flexible Savings|500 DAI|2024-04-15|8%|
 |Bybit Fund Pool|305 USDT|2024-04-03|12.5%|
-|Bybit Fund Pool|1000 USDT|2024-04-13|7.5%|
+|Bybit Fund Pool|700 USDT|2024-04-13|7.5%|
 
 
 ## 高風險項目
