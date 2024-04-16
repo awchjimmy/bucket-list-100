@@ -45,7 +45,7 @@
 #### Bybit Earn
 |項目名稱|本金|日期|年化|
 |----|----|----|----|
-|Bybit Flexible Savings|305 USDC|2024-04-02|8%|
+|Bybit Flexible Savings|500 USDC|2024-04-02|8%|
 |Bybit Flexible Savings|500 USDT|2024-04-15|8%|
 |Bybit Flexible Savings|500 DAI|2024-04-15|8%|
 |Bybit Fund Pool|305 USDT|2024-04-03|12.5%|
