@@ -54,17 +54,15 @@
 #### Bitget Earn
 |項目名稱|本金|日期|年化|
 |----|----|----|----|
-|Bitget Flexible Savings|USDT||8%|
-|Bitget Flexible Savings|USDC||8%|
-|Bitget Flexible Savings|DAI||8%|
+|Bitget Savings|300 USDT|2024-04-22|9%|
 
 
 ## 高風險項目
 如果你有 1K 美金，你會怎麼翻本？
 
-|項目名稱|本金|日期|6M|1Y|
+|項目名稱|本金|日期|1M|1Y|
 |----|----|----|----|----|
-|Bitget CTA Bot|||||
+|Bitget CTA Bot|100 USDT|2024-04-22|||
 |普匯投資|||||
 
 ---
