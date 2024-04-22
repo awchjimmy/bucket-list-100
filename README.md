@@ -54,7 +54,7 @@
 #### Bitget Earn
 |項目名稱|本金|日期|年化|
 |----|----|----|----|
-|Bitget Savings||||
+|Bitget Flexible Savings|100 USDC|2024-04-22|8%|
 
 
 ## 高風險項目
