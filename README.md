@@ -49,18 +49,23 @@
 |Bybit Flexible Savings|500 USDC|2024-04-02|8%|
 |Bybit Flexible Savings|500 USDT|2024-04-15|8%|
 |Bybit Flexible Savings|1000 DAI|2024-04-15|8%|
-|Bybit Fund Pool|305 USDT|2024-04-03|12.5%|
-|Bybit Fund Pool|700 USDT|2024-04-13|7.5%|
+|Bybit Fund Pool|1005 USDT|2024-04-03|4.5%|
+
+#### Bitget Earn
+|項目名稱|本金|日期|年化|
+|----|----|----|----|
+|Bitget Flexible Savings|USDT||8%|
+|Bitget Flexible Savings|USDC||8%|
+|Bitget Flexible Savings|DAI||8%|
 
 
 ## 高風險項目
 如果你有 1K 美金，你會怎麼翻本？
 
-|項目名稱|本金|日期|6M|1Y|2Y|5Y|
-|----|----|----|----|----|----|----|
-|5016 松和工業|||||||
-|2753 八方雲集|||||||
-|普匯投資|||||||
+|項目名稱|本金|日期|6M|1Y|
+|----|----|----|----|----|
+|Bitget CTA Bot|||||
+|普匯投資|||||
 
 ---
 
