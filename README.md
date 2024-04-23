@@ -55,14 +55,13 @@
 |項目名稱|本金|日期|年化|
 |----|----|----|----|
 |Bitget Flexible Savings|100 USDC|2024-04-22|8%|
-
+|Bitget Flexible Savings|100 USDT|2024-04-23|9%|
 
 ## 高風險項目
 如果你有 1K 美金，你會怎麼翻本？
 
 |項目名稱|本金|日期|1M|1Y|
 |----|----|----|----|----|
-|Bitget RSI Bot|100 USDT|2024-04-22|||
 |Bitget MACD Bot|100 USDT|2024-04-22|||
 |Bitget MA Bot|100 USDT|2024-04-22|||
 |普匯投資|||||
