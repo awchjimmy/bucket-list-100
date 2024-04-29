@@ -50,7 +50,7 @@
 |Bybit Flexible Savings|500 USDC|2024-04-02|8%|
 |Bybit Flexible Savings|500 USDT|2024-04-15|8%|
 |Bybit Flexible Savings|1000 DAI|2024-04-15|8%|
-|Bybit Fund Pool|1005 USDT|2024-04-03|4.5%|
+|Bybit Fund Pool|||4.5%|
 
 #### Bitget Earn
 |項目名稱|本金|日期|年化|
