@@ -38,18 +38,17 @@
 ## 投資
 如果你有 1M 美金，你會怎麼規劃？
 
+#### 第一銀行
 |項目名稱|本金|日期|年化|
 |----|----|----|----|
 |第一銀行 美金定存|1000 USD|2024-03-13|3.85%|
+|第一銀行 美金定存|1000 USD|2024-05-02|3.85%|
 |第一銀行 黃金 DCA|5000 NTD|2024-04-08|-|
-|連線銀行 台幣活存|||1.5%|
 
 #### Bybit Earn
 |項目名稱|本金|日期|年化|
 |----|----|----|----|
-|Bybit Flexible Savings|500 USDC|2024-04-02|8%|
-|Bybit Flexible Savings|500 USDT|2024-04-15|8%|
-|Bybit Flexible Savings|1000 DAI|2024-04-15|8%|
+|Bybit Flexible Savings|||8%|
 |Bybit Fund Pool|||4.5%|
 
 #### Bitget Earn
@@ -64,7 +63,7 @@
 
 |項目名稱|本金|日期|1M|1Y|
 |----|----|----|----|----|
-|Bybit trading-business|1000 USDT|2024-04-29|||
+|Bybit master trader|1000 USDT|2024-05-01|||
 |Bitget MA Bot|||||
 |普匯投資|||||
 
