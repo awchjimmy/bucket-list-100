@@ -45,28 +45,6 @@
 |第一銀行 美金定存|1000 USD|2024-05-02|3.85%|
 |第一銀行 黃金 DCA|5000 NTD|2024-04-08|-|
 
-#### Bybit Earn
-|項目名稱|本金|日期|年化|
-|----|----|----|----|
-|Bybit Flexible Savings|||8%|
-|Bybit Fund Pool|||4.5%|
-
-#### Bitget Earn
-|項目名稱|本金|日期|年化|
-|----|----|----|----|
-|Bitget Flexible Savings|100 USDC|2024-04-22|8%|
-|Bitget Flexible Savings|100 USDT|2024-04-23|9%|
-|Bitget Fixed Savings|100 USDT|2024-04-23|15%|
-
-## 高風險項目
-如果你有 1K 美金，你會怎麼翻本？
-
-|項目名稱|本金|日期|1M|1Y|
-|----|----|----|----|----|
-|Bybit master trader|1000 USDT|2024-05-01|||
-|Bitget MA Bot|||||
-|普匯投資|||||
-
 ---
 
 ## 出國旅遊
