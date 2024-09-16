@@ -62,7 +62,7 @@
 #### Bybit
 |項目名稱|本金|日期|
 |----|----|----|
-|Flexible Savings|500 USD|2024-09-04|
+|Flexible Savings|500 USDT|2024-09-04|
 
 ---
 
