@@ -76,9 +76,14 @@
 
 
 #### Bybit
+<details>
+  <summary>2024年 活存</summary>
+
 |項目名稱|本金|日期|
 |----|----|----|
 |Flexible Savings|500 USDT|2024-09-04|
+</details>
+
 
 ---
 
