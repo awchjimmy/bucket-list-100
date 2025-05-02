@@ -114,8 +114,6 @@
 #### 2025.02.23 晨曦麥香-昂首舞勺馬拉松 5K
 
 <img src="c1bb2a16-8596-4ce4-929a-67cea3a1aa28/629c870e848a97ce22276a529e6af625.jpg" width="400px">
-<img src="c1bb2a16-8596-4ce4-929a-67cea3a1aa28/b153fe9efebc0082403ae93697091b1e.jpg" width="400px">
-<img src="c1bb2a16-8596-4ce4-929a-67cea3a1aa28/5046d0d635ca200bb801ef2dc2d03e08.jpg" width="400px">
 
 #### 2025.04.12 萬人健行大會 7K
 
@@ -125,3 +123,5 @@
 
 #### #41 頭嵙山 H859M
 2025.05.01，大坑 5 號步道，5 上 5 下。
+
+<img src="e4fdb91b-08d2-4136-8258-b35dceb1c822/S__68952069_0.jpg" width="400px">
