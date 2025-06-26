@@ -59,6 +59,15 @@
 
 ---
 
+## 17. 參加頒獎典禮
+
+#### 2024/01/11 台電白帽駭客懸賞活動
+
+<img src="7434a7a3-cd46-428b-b7b8-cc4be1f6168f/20240111.jpg" width="400px">
+
+
+---
+
 ## 21. 投資
 移至 private repo [awchjimmy/21-portfolio](https://github.com/awchjimmy/21-portfolio)
 
