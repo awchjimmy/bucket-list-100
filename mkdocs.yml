@@ -1,6 +1,0 @@
-site_name: My Docs
-nav:
-  - 100件待完成的夢想: 100-list.md
-  - 001-出國: items/001.md
-  - 010-參觀水族館: items/010.md
-theme: readthedocs
